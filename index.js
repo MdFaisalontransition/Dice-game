@@ -16,5 +16,5 @@ else if(diceNumber1<diceNumber2) {
   document.querySelector("h1").innerHTML="Player 2 Won!";
 }
 else{
-  document.queryS elector("h1").innerHTML="It's a Draw!";
+  document.querySelector("h1").innerHTML="It's a Draw!";
 }
